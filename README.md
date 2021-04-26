@@ -1,6 +1,6 @@
 # hw-obs-plugin
 
-依据[huawei-obs-plugin]https://github.com/staven630/huawei-obs-plugin 进行修改,升级华为云 SDK 依赖，修复文件上传损坏问题。
+依据 [huawei-obs-plugin](https://github.com/staven630/huawei-obs-plugin) 进行修改,升级华为云 SDK 依赖，修复文件上传损坏问题。
 
 > 静态资源一键上传华为云 obs 插件。可单独作为 node.js 库使用，也可作为 webpack 插件 （兼容 webpack3.x 以上版本）
 
