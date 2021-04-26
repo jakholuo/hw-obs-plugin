@@ -8,6 +8,7 @@
   },
   "keywords": [],
   "author": "",
+  "git repository": "https://github.com/jakholuo/hw-obs-plugin",
   "license": "ISC",
   "dependencies": {
     "ansi-colors": "^4.1.1",
