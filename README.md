@@ -24,7 +24,7 @@ npm i hw-obs-plugin --save-dev
 | local           | Boolean              | ×        | false  | 默认每次上传 webpack 构建流中文件，设为 true 可上传打包后 webpack output 指向目录里的文件                             |
 | output          | String               | ×        | ''     | 读取本地目录的路径，如果 local 为 true，output 为空，默认为读取 webpack 输出目录                                      |
 | exclude         | ExpReg/Array<ExpReg> | ×        | null   | 可传入正则，或正则组成的数组，来排除上传的文件                                                                        |
-| beforeUpload    | Function             | ×        | ()=>{} | 上上传之前执行的钩子函数                                                                                              |
+| beforeUpload    | Function             | ×        | ()=>{} | 上传之前执行的钩子函数                                                                                                |
 
 # 静态方法
 
